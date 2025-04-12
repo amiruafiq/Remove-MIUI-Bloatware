@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/234234/logo-placeholder.png" alt="Redmi SE Logo" height="120"/>
-</p>
+<img src="img/2.png" alt="Redmi SE 8.7 " height="120"/>
+
 
 <h1 align="center">🚀 Redmi Pad SE – MIUI Debloat Guide by Afiq</h1>
 
