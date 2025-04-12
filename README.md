@@ -33,7 +33,7 @@
 - Download `uad_gui-windows.exe`
 - No installation needed
 
-![Screenshot](img/1.png)
+
 
 ---
 
@@ -70,6 +70,7 @@ adb version
 4. Right-click → **Uninstall** or **Disable**
 5. Reboot tablet after changes
 
+![Screenshot](img/1.png)
 ---
 
 ## 🔧 Option 2: Using Command Line (ADB Script)
