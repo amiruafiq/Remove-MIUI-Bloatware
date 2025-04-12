@@ -33,6 +33,8 @@
 - Download `uad_gui-windows.exe`
 - No installation needed
 
+![Screenshot](img/1.png)
+
 ---
 
 ## ⚙️ Environment Setup (Windows)
