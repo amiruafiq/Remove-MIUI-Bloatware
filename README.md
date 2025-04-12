@@ -59,9 +59,20 @@ adb version
 
 ---
 
-## 🧼 Debloat Script
+## 💻 Option 1: Using UAD (Graphical Interface)
 
-Create a file named `afiq_debloat.bat` in `platform-tools` and paste:
+1. Open `uad_gui-windows.exe`
+2. Ensure your device is detected at the bottom
+3. Use the **search bar** to find bloat apps like:
+   - `weather`, `scanner`, `security`, `notes`, `canvas`, etc.
+4. Right-click → **Uninstall** or **Disable**
+5. Reboot tablet after changes
+
+---
+
+## 🔧 Option 2: Using Command Line (ADB Script)
+
+Create a file named `afiq_debloat.bat` in your `platform-tools` folder and paste:
 
 ```bat
 @echo off
@@ -88,9 +99,12 @@ echo === Debloat complete! Enjoy your clean tablet 😎 ===
 pause
 ```
 
+To run it:
+- Double-click `afiq_debloat.bat` while your tablet is connected.
+
 ---
 
-## 🔄 Restore (Reinstall a Package)
+## 🔄 Optional Restore (Reinstall a Package)
 
 ```bash
 adb shell cmd package install-existing com.package.name
