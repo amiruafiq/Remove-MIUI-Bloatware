@@ -1,5 +1,6 @@
-<img src="img/2.png" alt="Redmi SE 8.7 " height="120"/>
-
+<p align="center">
+  <img src="img/2.png" alt="Redmi SE 8.7 " style="display:block; margin:auto;" height="120"/>
+</p>
 
 <h1 align="center">🚀 Redmi Pad SE – MIUI Debloat Guide by Afiq</h1>
 
